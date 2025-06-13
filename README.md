@@ -1,3 +1,2 @@
 # Prova-1
-Pedro Henrique Ferreira Antunes 
-Gabriel Luiz
+Pedro Henrique Ferreira Antunes, Gabriel Luiz
